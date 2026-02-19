@@ -80,11 +80,19 @@
               }
             ],
             "styles": [
+              "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css",
               "src/styles.css"
             ]
+
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a6c9c09a-4ded-4727-a02b-b81e23ca2329"
   }
 }
+
